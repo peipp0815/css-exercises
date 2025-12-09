@@ -24,7 +24,7 @@ body {
   width: 200px;
   /* CHANGE ME */
   padding: 32px;
-  margin-left: 20em;
+  margin-left: auto;
 }
 
 /*- Div One and Div Three have 32px between their text and border.
